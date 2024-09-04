@@ -12,7 +12,7 @@ export default function About() {
         <section className="mb-12 bg-gray-100 p-6 rounded-lg shadow-sm">
           <h2 className="text-2xl font-bold mb-4 text-gray-800">Our Mission</h2>
           <p className="text-gray-700">
-            At Surfboard Rental, our mission is to provide surf enthusiasts of all levels with access to high-quality surfboards, ensuring everyone can experience the thrill of riding the waves. We are passionate about surfing and strive to make it accessible and enjoyable for everyone.
+            111At Surfboard Rental, our mission is to provide surf enthusiasts of all levels with access to high-quality surfboards, ensuring everyone can experience the thrill of riding the waves. We are passionate about surfing and strive to make it accessible and enjoyable for everyone.
           </p>
         </section>
         
